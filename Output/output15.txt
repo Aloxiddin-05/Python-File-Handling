@@ -1,0 +1,9 @@
+ismlar harflar soni:
+Zafar: 5 harfli
+Dilnoza: 7 harfli
+Kamron: 6 harfli
+Aziza: 5 harfli
+Bekzod: 6 harfli
+Alisher: 7 harfli
+Anvar: 5 harfli
+Bunyod: 6 harfli
